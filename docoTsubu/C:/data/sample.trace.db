@@ -1,0 +1,8 @@
+2017-08-23 18:06:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: テーブル "MUTTER" が見つかりません
+Table "MUTTER" not found; SQL statement:
+drop table MUTTER [42102-196]
+2017-09-10 12:46:26 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: テーブル "ACCOUNT" が見つかりません
+Table "ACCOUNT" not found; SQL statement:
+SELECT * FROM ACCOUNT [42102-196]
